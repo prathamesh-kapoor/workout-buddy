@@ -12,7 +12,7 @@ const workOutSchema = new mongoose.Schema({
         },
         load: {
             type:Number,
-            reuired:true
+            required:true
         }
 
     },
